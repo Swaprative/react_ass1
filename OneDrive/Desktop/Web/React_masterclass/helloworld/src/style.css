@@ -1,0 +1,30 @@
+body{
+      background-color:coral;
+}
+h1{
+      border: 5px solid whitesmoke;
+}
+img{
+      position: relative;
+      width: 500px;
+      left: 25vw;
+}
+.text
+{
+      font-size: 20px;
+      font-family: 'Times New Roman', Times, serif;
+      text-align: center;
+}
+.Button{
+      position: relative;
+      margin: 5px;
+      font-size: 15px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      left: 46vw;
+      background-color: deeppink;
+      height: 30px;
+      top: 10vh;
+}
+.division{
+      background-color: darkcyan;
+}
