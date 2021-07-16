@@ -1,0 +1,22 @@
+body{
+      background-color: #051428;
+}
+
+.icon{
+      color: whitesmoke;
+      font-size: 80px;
+}
+.grid{
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-gap: 0px;
+}
+.box{
+      background-color: #051428;
+      width: auto;
+      height: 150px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border: 10px white solid;
+}
